@@ -12,6 +12,5 @@ Documents:
     - readme.md  
 Original_Data:    
     - billboard - oryginalny plik danych  
-    - Metadata:  
-        - empty 
+    - Metadata
 
