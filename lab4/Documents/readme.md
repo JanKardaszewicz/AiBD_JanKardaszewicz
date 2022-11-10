@@ -4,14 +4,14 @@ Data Sert - billboard.csv - notowania billboardu.
 ### Struktura dokumentu  :
 
 Analysys_Data:  
-  tidy_data_as_lecture_example - wyczyszczony zbiór danych utworzony na podstawie przykładu z wykładu  
-  tracks_on_list - zbiór to lista utworów na liscie  
+    - tidy_data_as_lecture_example - wyczyszczony zbiór danych utworzony na podstawie przykładu z wykładu  
+    - tracks_on_list - zbiór to lista utworów na liscie  
 Command_Files:  
-  commmand_files.ipynb - plik wykonujący czyszczenie plików   
+    - commmand_files.ipynb - plik wykonujący czyszczenie plików   
 Documents:  
-  readme.md  
+    - readme.md  
 Original_Data:    
-      billboard - oryginalny plik danych  
-      Metadata:  
-            -
+    - billboard - oryginalny plik danych  
+    - Metadata:  
+        - empty 
 
